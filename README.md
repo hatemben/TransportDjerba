@@ -5,8 +5,15 @@ En cours ...
 
 # Stations de Bus
 
-- StationsBusDjerba.csv est le premier fichier csv des stations de Bus dans l'ile de Djerba réalisé par Géoréférencement. Le fichier contient 222 stations avec les noms en AR/FR, et d'après une première vérification dans 11 stations, l'erreur moyenne était d'environ 400m, avec un min de 10m et un max de 1118m. 
+- StationsBusDjerba.csv est le premier fichier csv des stations de Bus dans l'ile de Djerba réalisé par Géoréférencement. Le fichier contient 223 stations avec les noms en AR/FR, et d'après une première vérification dans 11 stations, l'erreur moyenne était d'environ 400m, avec un min de 10m et un max de 1118m. 
 
 Publié sous une Licence Creative Commons Attribution - Partage dans les Mêmes Conditions 4.0 International.
 
 http://creativecommons.org/licenses/by-sa/4.0/
+
+
+# GTFS
+
+La Spécification générale des flux de transport en commun (GTFS) définit un format standard ouvert pour l'échange d'information sur le calendrier des transports publics, les données géographiques et les tarifs. Les «feeds» du GTFS permettent aux organismes de transport en commun de publier des données dans un format pouvant être consommé et utilisé dans les applications de façon interopérable.
+
+Nous proposons ici le premier GTFS pour les bus de Djerba, qui est basé sur le fichier CSV des stations. Le fichier zip sera mis à jour une fois les positions des stations et les itinéraires sont tous corrigés.
