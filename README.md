@@ -3,6 +3,11 @@ Transport public dans l'ile de Djerba - #Tunisie - #Tunisia
 
 En cours ...
 
+# Generator
+
+Le générateur de code permet de générer les fichiers GTFS à partir des fichiers CSV. 
+Le code a été écrit en 2017, donc je ne suis pas certain s'il marche encore; malgrè qu'il doit marcher normalement. Sinon ça a été uploader pour référence et j'essayerai de le documenter dès que possible. Il faut avoir une clef de google Maps API pour estimer le temps entre les stations (service payant).
+
 # Stations de Bus
 
 - StationsBusDjerba.csv est le premier fichier csv des stations de Bus dans l'ile de Djerba réalisé par Géoréférencement. Le fichier contient 223 stations avec les noms en AR/FR, et d'après une première vérification dans 11 stations, l'erreur moyenne était d'environ 400m, avec un min de 10m et un max de 1118m. 
