@@ -1,0 +1,10 @@
+route_type,route_id,route_short_name,route_long_name,agency_id
+3,1,SU411,"Houmet Souk, Tanit",FR
+3,0,SU410,"Houmet Souk, ElMay, Mahboubine, Midoun, Aguir, Djerba La Fidele",FR
+3,3,SU413,"Houmet Souk, Bni Maaguel, Midoun",FR
+3,2,SU412,"Houmet Souk, Ajim",FR
+3,5,SU415,"Houmet Souk,L'aéroport",FR
+3,4,SU414,"Erriadh, Gallala",FR
+3,7,SU417,"Houmet Souk, Walagh 2, Gachayin",FR
+3,6,SU416,"Houmet Souk, Sedwikech, Elkantara",FR
+3,8,SU418,"Houmet Souk, Erriadh, Oued Ezbib",FR

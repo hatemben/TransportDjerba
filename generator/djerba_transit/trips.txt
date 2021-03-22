@@ -1,0 +1,141 @@
+route_id,trip_id,trip_headsign,service_id
+8,133,Oued Ezbib vers Houmet Souk,0
+8,132,Houmet Souk vers Oued Ezbib,0
+8,131,Oued Ezbib vers Houmet Souk,0
+8,130,Houmet Souk vers Oued Ezbib,0
+8,137,Oued Ezbib vers Houmet Souk,0
+8,136,Houmet Souk vers Oued Ezbib,0
+8,135,Oued Ezbib vers Houmet Souk,0
+8,134,Houmet Souk vers Oued Ezbib,0
+8,139,Oued Ezbib vers Houmet Souk,0
+8,138,Houmet Souk vers Oued Ezbib,0
+1,24,Houmet Souk vers Tanit,0
+1,25,Tanit vers Houmet Souk,0
+1,26,Houmet Souk vers Tanit,0
+1,27,Tanit vers Houmet Souk,0
+1,20,Houmet Souk vers Tanit,0
+1,21,Tanit vers Houmet Souk,0
+1,22,Houmet Souk vers Tanit,0
+1,23,Tanit vers Houmet Souk,0
+1,28,Houmet Souk vers Tanit,0
+1,29,Tanit vers Houmet Souk,0
+0,0,Houmet Souk vers Djerba La Fidele,0
+0,4,Houmet Souk vers Jerba La fidèle,0
+0,8,Houmet Souk vers Jerba La fidèle,0
+6,119,Houmet Souk vers Elkantara,0
+7,120,Houmet Souk vers Gachayin,0
+7,121,Tinisset vers Houmet Souk,0
+7,122,Houmet Souk vers Gachayin,0
+7,123,Tinisset vers Houmet Souk,0
+7,124,Houmet Souk vers Gachayin,0
+7,125,Tinisset vers Houmet Souk,0
+7,126,Houmet Souk vers Gachayin,0
+7,127,Tinisset vers Houmet Souk,0
+7,128,Houmet Souk vers Gachayin,0
+7,129,Tinisset vers Houmet Souk,0
+6,118,Elkantara vers Houmet Souk,0
+2,59,Houmet Souk vers Ajim,0
+2,58,Ajim vers Houmet Souk,0
+2,55,Houmet Souk vers Ajim,0
+2,54,Ajim vers Houmet Souk,0
+2,57,Houmet Souk vers Ajim,0
+2,56,Ajim vers Houmet Souk,0
+2,51,Houmet Souk vers Ajim,0
+2,50,Ajim vers Houmet Souk,0
+2,53,Houmet Souk vers Ajim,0
+2,52,Ajim vers Houmet Souk,0
+6,115,Houmet Souk vers Elkantara,0
+6,114,Elkantara vers Houmet Souk,0
+4,88,Gallala vers Houmet Souk,0
+4,89,Houmet Souk vers Gallala,0
+6,111,Houmet Souk vers Elkantara,0
+6,110,Elkantara vers Houmet Souk,0
+6,113,Houmet Souk vers Elkantara,0
+6,112,Elkantara vers Houmet Souk,0
+4,82,Gallala vers Houmet Souk,0
+4,83,Houmet Souk vers Gallala,0
+4,80,Gallala vers Houmet Souk,0
+4,81,Houmet Souk vers Gallala,0
+4,86,Gallala vers Houmet Souk,0
+4,87,Houmet Souk vers Gallala,0
+4,84,Gallala vers Houmet Souk,0
+4,85,Houmet Souk vers Gallala,0
+0,3,Djerba La Fidele Vers Houmet Souk,0
+0,7,Jerba La fidèle vers Houmet Souk,0
+6,108,Elkantara vers Houmet Souk,0
+6,109,Houmet Souk vers Elkantara,0
+6,102,Elkantara vers Houmet Souk,0
+6,103,Houmet Souk vers Elkantara,0
+5,100,L'aéroport vers Houmet Souk,0
+6,101,Houmet Souk vers Elkantara,0
+6,106,Elkantara vers Houmet Souk,0
+6,107,Houmet Souk vers Elkantara,0
+6,104,Elkantara vers Houmet Souk,0
+6,105,Houmet Souk vers Elkantara,0
+1,39,Tanit vers Houmet Souk,0
+1,38,Houmet Souk vers Tanit,0
+1,33,Tanit vers Houmet Souk,0
+1,32,Houmet Souk vers Tanit,0
+1,31,Tanit vers Houmet Souk,0
+1,30,Houmet Souk vers Tanit,0
+1,37,Tanit vers Houmet Souk,0
+1,36,Houmet Souk vers Tanit,0
+1,35,Tanit vers Houmet Souk,0
+1,34,Houmet Souk vers Tanit,0
+2,60,Ajim vers Houmet Souk,0
+2,61,Houmet Souk vers Ajim,0
+2,62,Ajim vers Houmet Souk,0
+2,63,Houmet Souk vers Ajim,0
+2,64,Ajim vers Houmet Souk,0
+2,65,Ajim vers Houmet Souk,0
+3,66,Houmet Souk vers Bni Maaguel,0
+3,67,Bni Maaguel vers Houmet Souk,0
+3,68,Houmet Souk vers Bni Maaguel,0
+3,69,Bni Maaguel vers Houmet Souk,0
+0,2,Houmet Souk vers Djerba La Fidele,0
+0,6,Houmet Souk vers Jerba La fidèle,0
+5,99,Houmet Souk vers L'aéroport,0
+5,98,L'aéroport vers Houmet Souk,0
+4,91,Houmet Souk vers Gallala,0
+4,90,Gallala vers Houmet Souk,0
+4,93,Houmet Souk vers Gallala,0
+4,92,Gallala vers Houmet Souk,0
+5,95,Houmet Souk vers L'aéroport,0
+4,94,Gallala vers Houmet Souk,0
+5,97,Houmet Souk vers L'aéroport,0
+5,96,L'aéroport vers Houmet Souk,0
+0,11,Jerba La fidèle vers Houmet Souk,0
+0,10,Houmet Souk vers Jerba La fidèle,0
+0,13,Jerba La fidèle vers Houmet Souk,0
+0,12,Houmet Souk vers Jerba La fidèle,0
+0,15,Jerba La fidèle vers Houmet Souk,0
+0,14,Houmet Souk vers Jerba La fidèle,0
+0,17,Houmet Souk vers Jerba La fidèle,0
+0,16,Houmet Souk vers Jerba La fidèle,0
+0,19,Houmet Souk vers Jerba La fidèle,0
+0,18,Houmet Souk vers Jerba La fidèle,0
+6,117,Houmet Souk vers Elkantara,0
+6,116,Elkantara vers Houmet Souk,0
+1,48,Tanit vers Houmet Souk,0
+2,49,Houmet Souk vers Ajim,0
+1,46,Houmet Souk vers Tanit,0
+1,47,Tanit vers Houmet Souk,0
+1,44,Houmet Souk vers Tanit,0
+1,45,Tanit vers Houmet Souk,0
+1,42,Houmet Souk vers Tanit,0
+1,43,Tanit vers Houmet Souk,0
+1,40,Houmet Souk vers Tanit,0
+1,41,Tanit vers Houmet Souk,0
+0,1,Djerba La Fidele Vers Houmet Souk,0
+0,5,Jerba La fidèle vers Houmet Souk,0
+0,9,Jerba La fidèle vers Houmet Souk,0
+4,77,Houmet Souk vers Gallala,0
+3,76,Bni Maaguel vers Houmet Souk,0
+3,75,Bni Maaguel vers Houmet Souk,0
+3,74,Houmet Souk vers Bni Maaguel,0
+3,73,Bni Maaguel vers Houmet Souk,0
+3,72,Houmet Souk vers Bni Maaguel,0
+3,71,Bni Maaguel vers Houmet Souk,0
+3,70,Houmet Souk vers Bni Maaguel,0
+4,79,Houmet Souk vers Gallala,0
+4,78,Gallala vers Houmet Souk,0
